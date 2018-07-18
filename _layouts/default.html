@@ -22,7 +22,7 @@
 
     <div class="off-canvas">
       <figure class="avatar">
-        <img src="{{ site.baseurl }}/assets/img/avatar.jpg" alt="Picture" title="That's me, {{ site.author }}.">
+        <img src="{{ site.baseurl }}/assets/img/avatar.png" alt="Picture" title="That's me, {{ site.author }}.">
       </figure>
       <div class="bio">
           <h1>Hi, I'm {{ site.author }}.</h1>
@@ -42,6 +42,9 @@
           {% endif %}
           {% if site.instagram %}
           <li><a target="_blank" href="https://instagram.com/{{ site.instagram }}">Instagram</a></li>
+          {% endif %}
+          {% if site.linkedin %}
+          <li><a target="_blank" href="https://linkedin.com/in/{{ site.linkedin }}">LinkedIn</a></li>
           {% endif %}
         </ul>
       </nav>
