@@ -46,3 +46,5 @@ closer to around 16 mi.
 All in all, it was great getting out and getting our backpacking season started.
 The terrain and smoke made for a tougher hike than we anticipated, but it was great
 to enjoy our wonderful California.
+
+More pictures [here](https://photos.app.goo.gl/2geJJgSVHsvQ2zUy8)
